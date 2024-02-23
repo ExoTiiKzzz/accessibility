@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout main branch
-      uses: actions/checkout@v3
-      with:
-        ref: main
+    - name: Call PHP webhook handler
+      run: |
+        curl -X POST -d '{}' https://your-server/webhook.php
+      env:
+        WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
