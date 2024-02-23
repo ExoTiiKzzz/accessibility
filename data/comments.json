@@ -1,0 +1,227 @@
+[
+  {
+    "articleId": 1,
+    "title": "Symfony Version 7 Release: A Leap Forward in Web Development",
+    "comments": [
+      {
+        "commentId": 1,
+        "content": "Great news! Can't wait to try out the new features.",
+        "author": "User123"
+      },
+      {
+        "commentId": 2,
+        "content": "Symfony never fails to impress with its updates.",
+        "author": "DevGuy92"
+      },
+      {
+        "commentId": 3,
+        "content": "I'm excited to see how Symfony 7 performs in real-world projects.",
+        "author": "CodeNinja"
+      },
+      {
+        "commentId": 4,
+        "content": "The enhanced developer experience sounds promising.",
+        "author": "TechEnthusiast"
+      },
+      {
+        "commentId": 5,
+        "content": "Kudos to the Symfony team for their hard work on this release!",
+        "author": "WebDevMaster"
+      },
+      {
+        "commentId": 6,
+        "content": "Symfony continues to raise the bar for PHP frameworks.",
+        "author": "Coder123"
+      },
+      {
+        "commentId": 7,
+        "content": "I've been waiting for Symfony 7 to launch. Finally!",
+        "author": "CodeGeek"
+      },
+      {
+        "commentId": 8,
+        "content": "Looking forward to exploring the new security features .",
+        "author": "SecurityExpert"
+      },
+      {
+        "commentId": 9,
+        "content": "Symfony FTW!",
+        "author": "SymfonyFan"
+      },
+      {
+        "commentId": 10,
+        "content": "Congratulations on the release!",
+        "author": "HappyDev"
+      }
+    ]
+  },
+  {
+    "articleId": 2,
+    "title": "Enhanced Performance in Symfony 7",
+    "comments": [
+      {
+        "commentId": 11,
+        "content": "Performance improvements are always welcome.",
+        "author": "Speedster"
+      },
+      {
+        "commentId": 12,
+        "content": "I wonder how much faster Symfony 7 is compared to previous versions.",
+        "author": "DevOpsPro"
+      },
+      {
+        "commentId": 13,
+        "content": "Optimized routing sounds promising for larger applications.",
+        "author": "RouteMaster"
+      },
+      {
+        "commentId": 14,
+        "content": "I hope the performance enhancements translate to better page load times.",
+        "author": "PageLoadGuru"
+      },
+      {
+        "commentId": 15,
+        "content": "I'm eager to benchmark Symfony 7 against other frameworks.",
+        "author": "BenchmarkKing"
+      },
+      {
+        "commentId": 16,
+        "content": "The fine-tuning of database queries should make a noticeable difference.",
+        "author": "DBAdmin"
+      },
+      {
+        "commentId": 17,
+        "content": "Speed is essential for user satisfaction. Symfony seems to deliver on that front.",
+        "author": "SpeedDemon"
+      },
+      {
+        "commentId": 18,
+        "content": "Symfony just keeps getting better and better.",
+        "author": "SymfonyEnthusiast"
+      },
+      {
+        "commentId": 19,
+        "content": "Can't wait to optimize my projects with Symfony 7.",
+        "author": "OptimizationFan"
+      },
+      {
+        "commentId": 20,
+        "content": "Symfony's commitment to performance is commendable.",
+        "author": "PerformanceFanatic"
+      }
+    ]
+  },
+  {
+    "articleId": 3,
+    "title": "New Components and Bundles Unveiled in Symfony 7",
+    "comments": [
+      {
+        "commentId": 21,
+        "content": "Exciting to see Symfony expanding its ecosystem.",
+        "author": "EcosystemLover"
+      },
+      {
+        "commentId": 22,
+        "content": "I'm curious about the new components introduced.",
+        "author": "CuriousDev"
+      },
+      {
+        "commentId": 23,
+        "content": "Symfony's flexibility is one of its greatest strengths.",
+        "author": "FlexibilityFan"
+      },
+      {
+        "commentId": 24,
+        "content": "Having more tools at our disposal can only lead to better projects.",
+        "author": "ToolLover"
+      },
+      {
+        "commentId": 25,
+        "content": "It's great to see Symfony adapting to modern development needs.",
+        "author": "ModernDev"
+      },
+      {
+        "commentId": 26,
+        "content": "The Symfony ecosystem just keeps getting richer.",
+        "author": "EcosystemEnthusiast"
+      },
+      {
+        "commentId": 27,
+        "content": "Looking forward to exploring the new possibilities.",
+        "author": "PossibilityExplorer"
+      },
+      {
+        "commentId": 28,
+        "content": "Symfony's focus on modularity is paying off.",
+        "author": "ModularityFan"
+      },
+      {
+        "commentId": 29,
+        "content": "I wonder how these new components will integrate with existing Symfony projects.",
+        "author": "IntegrationExpert"
+      },
+      {
+        "commentId": 30,
+        "content": "Symfony continues to innovate in the PHP ecosystem.",
+        "author": "InnovationEnthusiast"
+      }
+    ]
+  },
+  {
+    "articleId": 4,
+    "title": "Improved Developer Experience in Symfony 7",
+    "comments": [
+      {
+        "commentId": 31,
+        "content": "Developer experience is crucial for productivity.",
+        "author": "DevXEnthusiast"
+      },
+      {
+        "commentId": 32,
+        "content": "Clear documentation makes a world of difference.",
+        "author": "DocFan"
+      },
+      {
+        "commentId": 33,
+        "content": "I appreciate Symfony's commitment to improving the developer workflow.",
+        "author": "WorkflowFan"
+      },
+      {
+        "commentId": 34,
+        "content": "Debugging tools are a lifesaver when troubleshooting.",
+        "author": "DebuggingExpert"
+      },
+      {
+        "commentId": 35,
+        "content": "The Symfony community is always helpful when I run into issues.",
+        "author": "CommunityHelper"
+      },
+      {
+        "commentId": 36,
+        "content": "I'm glad to see Symfony addressing pain points in development.",
+        "author": "PainPointSolver"
+      },
+      {
+        "commentId": 37,
+        "content": "Efficient error handling can save a lot of time during development.",
+        "author": "ErrorHandlingExpert"
+      },
+      {
+        "commentId": 38,
+        "content": "Symfony's tooling makes complex tasks manageable.",
+        "author": "ToolingFan"
+      },
+      {
+        "commentId": 39,
+        "content": "I'm excited to explore the new features in Symfony 7.",
+        "author": "FeatureExplorer"
+      },
+      {
+        "commentId": 40,
+        "content": "Symfony makes PHP development enjoyable.",
+        "author": "EnjoyableDev"
+      }
+    ]
+  }
+]
+
