@@ -12,6 +12,6 @@ jobs:
     steps:
     - name: Call PHP webhook handler
       run: |
-        curl -X POST -d '{}' https://your-server/webhook.php
+        curl -X POST -d '{}' https://accessibility.arthurlecompte.com/webhook.php
       env:
         WEBHOOK_SECRET: ${{ secrets.WEBHOOK_SECRET }}
