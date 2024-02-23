@@ -28,6 +28,10 @@ $content = <<<HTML
     This website is hosted on Ionos.
   </p>
 
+  <p>
+  Test
+</p>
+
   </main>
 HTML;
 
